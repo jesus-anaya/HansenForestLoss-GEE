@@ -1,2 +1,2 @@
 # HansenForestLoss-GEE
-To be used withing GEE
+To be used within GEE
